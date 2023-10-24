@@ -2,4 +2,4 @@
 
 Part 1: Visualizing Daily Treasury Yield Curve Rates
 
-Part 2: Using &amp; visualizing the Titanic data in Seaborn
+Part 2: Visualizing the Titanic data in Seaborn
